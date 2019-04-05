@@ -1,3 +1,7 @@
+// Justin Keel
+// Kristin Proudfoot
+// Jack Huckleberry
+
 import java.util.Scanner;
 
 class Main 
